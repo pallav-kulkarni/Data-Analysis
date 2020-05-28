@@ -4,8 +4,9 @@
 
 ### Description: 
 
-Microsoft Excel is one of the most powerful tool for data analysis. 
-In this repository, I have analyzed some excel datasets and created some dynamic, interactive, visually appealing dashboards with meaningful insights.
+Microsoft Excel is one of the most popular apps used today and is a very important asset to know to survive in the business world.
+I have mastered advanced Excel formulas and tools from Vlookup to Pivot Tables and created graphs and visualizations that summarizes critical business insights.
+Also, in this repository, I have used my knowlege to analyze some excel datasets and created dynamic, interactive, visually appealing dashboards.
 
 * Note: The files are password protected. Meanwhile, you can access the files in 'read only' mode.
 
