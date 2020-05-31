@@ -19,3 +19,5 @@ Microsoft Office or Microsoft Excel/Google Sheets/Libra Office, etc.
 ### Table of Contents: 
 
 1. Customer Data Analysis
+2. Project Data Analysis
+3. Stock Price Evaluation
