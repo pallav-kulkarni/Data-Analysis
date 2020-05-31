@@ -21,3 +21,4 @@ Microsoft Office or Microsoft Excel/Google Sheets/Libra Office, etc.
 1. Customer Data Analysis
 2. Project Data Analysis
 3. Stock Price Evaluation
+4. Simple Movie Recommendation Engine
