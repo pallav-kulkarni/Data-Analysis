@@ -22,3 +22,4 @@ Microsoft Office or Microsoft Excel/Google Sheets/Libra Office, etc.
 2. Project Data Analysis
 3. Stock Price Evaluation
 4. Simple Movie Recommendation Engine
+5. HR Management App
