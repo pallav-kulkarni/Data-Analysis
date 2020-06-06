@@ -14,3 +14,4 @@ Microsoft Power BI
 
 ### Table of Contents: 
 1. Super Data Store Report
+2. Fact Internet Sales (Mini Project - 1)
