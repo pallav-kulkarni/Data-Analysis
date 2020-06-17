@@ -7,3 +7,4 @@ In this repository, I have analyzed some case studies and created dynamic, inter
 
 ### Softwares used:
 * Microsoft Excel
+* Microsoft Power BI
