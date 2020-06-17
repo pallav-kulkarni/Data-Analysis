@@ -16,3 +16,4 @@ Microsoft Power BI
 1. Super Data Store Report
 2. Fact Internet Sales (Mini Project - 1)
 3. Fact Internet Sales (Mini Project - 2)
+4. Fact Internet Sales (Mini Project - 3)
