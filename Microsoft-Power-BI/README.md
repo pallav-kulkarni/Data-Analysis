@@ -17,3 +17,5 @@ Microsoft Power BI
 2. Fact Internet Sales (Mini Project - 1)
 3. Fact Internet Sales (Mini Project - 2)
 4. Fact Internet Sales (Mini Project - 3)
+5. Fact Internet Sales Project
+6. Bank Observation Data
